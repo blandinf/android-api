@@ -21,3 +21,10 @@ and:
 ```bash
 symfony server:start
 ```
+
+## API
+
+You can see all the different requests on:
+```bash
+yourlocalhost:yourPort/api
+```
